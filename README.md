@@ -1,5 +1,5 @@
 
-#🌍 Country Explorer
+# 🌍 Country Explorer
 
 > ⚠️ **Note**: **This project is under development** – many features are planned and being gradually implemented.
 

@@ -17,7 +17,7 @@ A simple web application that allows users to explore information about countrie
 
 ## 🧠 About The Project
 
-This project was created to practice working with APIs and JavaScript.  
+This project was created to practice working with APIs and TypeScript.  
 The application fetches country data from an external API and displays it in a user-friendly way.
 
 ---

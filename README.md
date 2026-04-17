@@ -38,9 +38,9 @@ The application fetches country data from an external API and displays it in a u
 
 ## 🛠️ Built With
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
+- React  
+- Tailwind  
+- TypeScript 
 - REST API – https://restcountries.com/
 
 ---
